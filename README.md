@@ -186,3 +186,10 @@ MIT License
 Free to use for learning, demos, and experimentation.
 
 ```
+
+👤 Author
+
+Shafqat Altaf
+Serverless • Microservices • API Gateway Architectures
+
+```
