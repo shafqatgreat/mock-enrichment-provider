@@ -189,6 +189,8 @@ Free to use for learning, demos, and experimentation.
 
 ## 👤 Author
 
+## 📄 License
+
 Shafqat Altaf
 Serverless • Microservices • API Gateway Architectures
 
